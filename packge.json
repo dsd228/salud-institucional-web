@@ -1,0 +1,25 @@
+{
+  "name": "salud-institucional-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicación web institucional para entidad de salud. Usable por médicos y enfermeros/as. Incluye buscador de enfermedades, calculadoras médicas, resultados de laboratorio, novedades, directorio y guías.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "gh-pages": "^6.0.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  }
+}
