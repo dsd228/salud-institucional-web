@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Diabetes Mellitus",
+    "descripcion": "Enfermedad crónica caracterizada por niveles elevados de glucosa en sangre.",
+    "diagnostico": "Glucemia en ayunas > 126 mg/dl.",
+    "tratamientos": ["Metformina", "Insulina", "Dieta", "Ejercicio"],
+    "especialidades": ["Clínicos", "Endocrinología"]
+  },
+  {
+    "id": 2,
+    "nombre": "Enfermedad de Alzheimer",
+    "descripcion": "Trastorno neurodegenerativo progresivo.",
+    "diagnostico": "Evaluación clínica, MMSE < 24, imágenes cerebrales.",
+    "tratamientos": ["Donepezilo", "Rivastigmina", "Cuidados generales"],
+    "especialidades": ["Neurólogos"]
+  }
+]
