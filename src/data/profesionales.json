@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Dr. Juan Pérez", "especialidad": "Clínico", "email": "jperez@salud.org" },
+  { "id": 2, "nombre": "Dra. Ana Gómez", "especialidad": "Neuróloga", "email": "agomez@salud.org" },
+  { "id": 3, "nombre": "Lic. Marta Ruiz", "especialidad": "Enfermería", "email": "mruiz@salud.org" }
+]
