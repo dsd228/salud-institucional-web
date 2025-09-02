@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "especialidad": "Cardiología",
+    "titulo": "Nuevo anticoagulante aprobado",
+    "fecha": "2025-08-20",
+    "contenido": "La agencia reguladora aprobó el uso de Xabitril en fibrilación auricular."
+  },
+  {
+    "id": 2,
+    "especialidad": "Pediatría",
+    "titulo": "Nueva técnica de ventilación no invasiva",
+    "fecha": "2025-08-10",
+    "contenido": "Se incorpora la técnica VNI en la unidad de cuidados intensivos pediátricos."
+  }
+]
