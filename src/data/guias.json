@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Guía de manejo de hipertensión arterial",
+    "especialidad": "Clínico",
+    "archivo": "/assets/guias/hipertension.pdf"
+  },
+  {
+    "id": 2,
+    "titulo": "Protocolo de sepsis pediátrica",
+    "especialidad": "Pediatría",
+    "archivo": "/assets/guias/sepsis_pediatrica.pdf"
+  }
+]
