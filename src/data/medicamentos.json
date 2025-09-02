@@ -1,0 +1,24 @@
+[
+  {
+    "id": "metformina",
+    "nombre": "Metformina",
+    "precio": 350,
+    "presentacion": "500mg x 30 comp.",
+    "ficha_tecnica": "Antidiabético oral. Dosis habitual 500-2000mg/día.",
+    "interacciones": ["Alcohol", "Insulina"],
+    "equivalentes": ["Glucophage"],
+    "novedades": "Uso ampliado en prediabetes.",
+    "aprobado": true
+  },
+  {
+    "id": "donepezilo",
+    "nombre": "Donepezilo",
+    "precio": 1200,
+    "presentacion": "10mg x 28 comp.",
+    "ficha_tecnica": "Inhibidor de la acetilcolinesterasa. Dosis 5-10mg/día.",
+    "interacciones": ["Antidepresivos", "Antihistamínicos"],
+    "equivalentes": [],
+    "novedades": "Nuevas formulaciones de liberación prolongada.",
+    "aprobado": true
+  }
+]
